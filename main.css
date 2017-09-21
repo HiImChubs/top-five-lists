@@ -1,0 +1,30 @@
+body{
+  background-color: #d5ffc9;
+
+}
+h1{
+  color: #5276f9;
+  font-family: 'Patua One', cursive;
+}
+
+h2{
+  color: #fc722d;
+  font-family: 'Capriola', sans-serif;
+}
+
+body{
+  color: #8d47ff;
+  font-family: 'Baloo', cursive;
+}
+
+a:link {
+  color : #2985f4
+}
+
+a:visited {
+  color: #ff60b2
+}
+
+a:hover {
+  color: #ff0015
+}
